@@ -1,0 +1,48 @@
+farooq	 $03222511810	 $Dr.Mansoor Sabir	 $Neuro Surgeon	 $Tuesday	 $11:01:21	 $2400	 
+-------------------------------------------
+sohaib	 $2384283472	 $Dr.Mansoor Sabir	 $Neuro Surgeon	 $Tuesday	 $12:01:21	 $2400	 
+-------------------------------------------
+qasim	 $03222511810.	 $Dr.Ishaq Daar	 $Kidney Surgeon	 $Tuesday	 $12:01:57	 $1000	 
+-------------------------------------------
+ali	 $03222511810.	 $Dr.Sohaib Zaidi	 $Bone Surgeon	 $Tuesday	 $12:01:57	 $800	 
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Mansoor Sabir	 $Neuro Surgeon	 $Tuesday	 $01:01:27	 $2400	 
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Qasim Qadri	 $dental Surgeon	 $Tuesday	 $01:01:14	 $600	 
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Ishaq Daar	 $Kidney Surgeon	 $Tuesday	 $01:01:51	 $1000	 
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Qasim Qadri	 $dental Surgeon	 $Tuesday	 $01:01:10	 $600	 
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Hamza Dattu	 $Ent Surgeon	 $Tuesday	 $01:01:01	 $500	 $
+-------------------------------------------
+mansoor	 $123.	 $Dr.Qasim Qadri	 $dental Surgeon	 $Tuesday	 $02:01:48	 $600	 $
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Mansoor Sabir	 $Neuro Surgeon	 $Tuesday	 $02:01:36	 $2400	 $
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Hamza Dattu	 $Ent Surgeon	 $Tuesday	 $02:01:44	 $500	 $
+-------------------------------------------
+mansoor	 $0322511810.	 $Dr.Mansoor Sabir	 $Neuro Surgeon	 $Tuesday	 $02:01:33	 $2400	 $
+-------------------------------------------
+mansoor	 $123.	 $Dr.Sohaib Zaidi	 $Bone Surgeon	 $Tuesday	 $02:01:33	 $800	 $
+-------------------------------------------
+farooq	$03222511810	$Dr.Qasim Qadri	$dental Surgeon	$Tuesday	$02:01:03	$600	$
+-------------------------------------------
+Sohaib	$04151	$Dr.Farooq Asghar	$general physician	$Tuesday	$11:01:27	$350	$
+-------------------------------------------
+Sohaib	$04151	$Dr.Farooq Asghar	$general physician	$Tuesday	$11:01:27	$350	$
+-------------------------------------------
+Adeel	$4454444	$Dr.Farooq Asghar	$general physician	$Tuesday	$11:01:37	$350	$
+-------------------------------------------
+fazeel	$03041292965	$Dr.Qasim Qadri	$dental Surgeon	$Tuesday	$11:01:34	$600	$
+-------------------------------------------
+mansoor	$032121	$Dr.Mansoor Sabir	$Neuro Surgeon	$Wednesday	$10:01:20	$2400	$
+-------------------------------------------
+qasim	$03041292965.	$dr.Farooq Asghar	$general physician	$Wednesday	$03:01:01	$350	$
+-------------------------------------------
+donald trump	$03429856510	$Dr.Farooq Asghar	$general physician	$Wednesday	$03:01:47	$350	$
+-------------------------------------------
+mansad	$	$Dr.Farooq Asghar	$general physician	$Tuesday	$9:05:23	$350	$
+-------------------------------------------
+rehan chakka	$034526785	$Dr.Ishaq Daar	$Kidney Surgeon	$Sunday	$6:01:15	$1000	$
+-------------------------------------------

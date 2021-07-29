@@ -1,0 +1,14 @@
+1	$mansoor	$0322511810.	$Dr.Mansoor Sabir	$Neuro Surgeon	$Tuesday	$02:01:33	$2400	$
+
+2	$mansoor	$123.	$Dr.Sohaib Zaidi	$Bone Surgeon	$Tuesday	$02:01:33	$800	$
+
+1	$farooq	$03222511810	$Dr.Qasim Qadri	$dental Surgeon	$Tuesday	$02:01:03	$600	$
+
+1	$Sohaib	$04151	$Dr.Farooq Asghar	$general physician	$Tuesday	$11:01:27	$350	$
+
+1	$Sohaib	$04151	$Dr.Farooq Asghar	$general physician	$Tuesday	$11:01:27	$350	$
+
+2	$Adeel	$4454444	$Dr.Farooq Asghar	$general physician	$Tuesday	$11:01:37	$350	$
+
+1	$fazeel	$03041292965	$Dr.Qasim Qadri	$dental Surgeon	$Tuesday	$11:01:34	$600	$
+
